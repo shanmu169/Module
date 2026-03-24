@@ -1,7 +1,7 @@
 EX NO- 1 a)- Finding the ASCII value
-Date: 18-10-2025
-Name: Ritika. S
-Register Number: 25009202
+Date: 27-1-2026
+Name: shanmuga priya.K
+Register Number: 25004352
 AIM:
 Write a C program to find the ASCII value of a given character.
 ALGORITHM:
